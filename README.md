@@ -4,8 +4,9 @@
 
 I am **Tinghao(Vitus) Xie**, a junior undergraduate student majoring in [Computer Science and Technology](http://www.en.cs.zju.edu.cn) at [Zhejiang University](http://www.zju.edu.cn/english/). My current research interest lies in the intersection of secure, efficient, robust AI and systems.
 
-* Visit my personal website [vtu.life](http://vtu.life) and see more!
-* Click to check my [CV/resume](http://vtu.life/files/CV_TinghaoXie.pdf)
+* 🌏 Visit my personal website [vtu.life](http://vtu.life) and see more!
+* 📋 Click to check my [CV/resume](http://vtu.life/files/CV_TinghaoXie.pdf)
+* 💃 Interested in choreography and street dance
 
 
 ![vtu81's GitHub stats](https://github-readme-stats.vercel.app/api?username=vtu81&show_icons=true&layout=compact&hide_border=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vtu81&layout=compact&hide_border=true&langs_count=8&hide=html,css,less,ejs,scss,makefile)
