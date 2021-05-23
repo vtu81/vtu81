@@ -7,6 +7,9 @@ I am **Tinghao(Vitus) Xie**, a junior undergraduate student majoring in [Compute
 * Visit my personal website [vtu.life](http://vtu.life) and see more!
 * Click to check my [CV/resume](http://vtu.life/files/CV_TinghaoXie.pdf)
 
+
+![vtu81's GitHub stats](https://github-readme-stats.vercel.app/api?username=vtu81&show_icons=true&layout=compact&hide_border=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vtu81&layout=compact&hide_border=true&langs_count=8&hide=html,css,less,ejs,scss,makefile)
+
 <!--
 **vtu81/vtu81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
