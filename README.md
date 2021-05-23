@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=vtu81)
+
+I am **Tinghao(Vitus) Xie**, a junior undergraduate student majoring in [Computer Science and Technology](http://www.en.cs.zju.edu.cn) at [Zhejiang University](http://www.zju.edu.cn/english/). My current research interest lies in the intersection of secure, efficient, robust AI and systems.
+
+* Visit my personal website [vtu.life](http://vtu.life) and see more!
+* Click to check my [CV/resume](http://vtu.life/files/CV_TinghaoXie.pdf)
+
 <!--
 **vtu81/vtu81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +21,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
