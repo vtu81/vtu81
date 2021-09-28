@@ -4,9 +4,10 @@
 
 I am **Tinghao(Vitus) Xie**, a senior undergraduate student majoring in [Computer Science and Technology](http://www.en.cs.zju.edu.cn) at [Zhejiang University](http://www.zju.edu.cn/english/). My current research interest lies in the intersection of secure, efficient, robust AI and systems.
 
+* 🎓 Seeking opportunities for a Ph.D. study
 * 🔬 Currently working as a research intern @ [ALPS lab](https://www.alpslab.ai/alps/) (**A**lgorithmic Research on **L**earning, **P**rivacy and **S**ecurity), advised by Professor [Ting Wang](https://www.alpslab.ai) at Penn State University
-* 🌏 Visit my personal website [vtu.life](http://vtu.life) and see more!
-* 📋 Click to check my [CV/resume](http://vtu.life/files/CV_TinghaoXie.pdf)
+* 🌏 My personal website [vtu.life](http://vtu.life)
+* 📋 My [CV/resume](http://vtu.life/files/CV_TinghaoXie.pdf)
 * 💃 Interested in choreography and street dance
 
 
