@@ -11,14 +11,18 @@ Earlier, I just finished our project **Subnet Replacement Attack (SRA)**[[paper]
 ### News & Facts
 
 * 🎓 **Seeking opportunities for a Ph.D. study**
+* Received 22 Fall offers: ECE Ph.D.@Princeton, CS Ph.D.@GeorgiaTech, MSML@CMU, MSCS@UCSD (updating).
+* My 🍫-abs are visible!!! To lose fat, healthy diets are way more important than exercises.
 * Our new paper [Towards Practical Deployment-Stage Backdoor Attack on Deep Neural Networks](https://arxiv.org/abs/2111.12965) (pre-print & under review) now available!
-* 🔬 Currently working as a research intern @ [ALPS lab](https://alps-lab.github.io/alps/) (**A**lgorithmic Research on **L**earning, **P**rivacy and **S**ecurity), advised by Professor [Ting Wang](https://alps-lab.github.io/about/) at Penn State University
-* 🇬🇧 Now visiting at the [University of Oxford](https://www.ox.ac.uk)
+* 🔬 Currently working as a research intern @ [ALPS lab](https://alps-lab.github.io/alps/) (**A**lgorithmic Research on **L**earning, **P**rivacy and **S**ecurity), advised by Professor [Ting Wang](https://alps-lab.github.io/about/) at Penn State University.
+<!-- * 🇬🇧 Now visiting at the [University of Oxford](https://www.ox.ac.uk) -->
 * 🌏 My personal website [tinghaoxie.com](https://tinghaoxie.com) or [vtu.life](http://vtu.life)
 * 📋 My [CV/resume](https://tinghaoxie.com/files/CV_TinghaoXie.pdf)
 * 📖 My [publications](https://tinghaoxie.com/publications)
 * 🏰 My [recent projects](https://tinghaoxie.com/projects)
 * 💃 Interested in choreography and street dance. I especially enjoy *House* recently. Besides that, I do *Hiphop* a lot, and some *Breaking* too. BTW, I like *Locking* and *Popping* but not so good at them :)
-* 🏊‍ Enjoy swimming as an aerobic exercise. I go to gym randomly, and play billiards & basketball for fun.
+* 🏊‍ Enjoy swimming as an aerobic exercise.
+* 🏋 Go to gym regularly. It makes me happy!
+* 🎱 Love playing billiards, basketball, bowling...
 
 ![vtu81's GitHub stats](https://github-readme-stats.vercel.app/api?username=vtu81&show_icons=true&layout=compact&hide_border=true&count_private=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vtu81&layout=compact&hide_border=true&langs_count=8&hide=html,css,less,ejs,scss,makefile)
