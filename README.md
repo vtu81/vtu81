@@ -12,7 +12,7 @@ Earlier, I finished our project **Subnet Replacement Attack (SRA)**[[paper]](htt
 
 * Will be a candidate of ECE Ph.D.@Princeton🐯 in Sep 2022!
 
-* Received 22 Fall offers: ECE Ph.D.@Princeton, CS Ph.D.@GeorgiaTech, CS Ph.D.@NUS, MSML@CMU, MSCS@UCSD, MSCS@ETHz (updating).
+* Received 22 Fall offers: ECE Ph.D.@Princeton, CS Ph.D.@GeorgiaTech, CS Ph.D.@NUS, MSML@CMU, MSCS@UCSD, MSCS@ETHz, MSCS@EPFL (updating).
 * Our paper [Towards Practical Deployment-Stage Backdoor Attack on Deep Neural Networks](https://arxiv.org/abs/2111.12965) is accepted by CVPR 2022!
 * My 🍫-abs are visible!!! To lose fat, healthy diets are just important as appropriate exercise plans.
 * 🔬 Currently working as a research intern @ [ALPS lab](https://alps-lab.github.io/alps/) (**A**lgorithmic Research on **L**earning, **P**rivacy and **S**ecurity), advised by Professor [Ting Wang](https://alps-lab.github.io/about/) at Penn State University.
