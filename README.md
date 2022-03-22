@@ -11,13 +11,11 @@ Earlier, I finished our project **Subnet Replacement Attack (SRA)**[[paper]](htt
 ### News & Facts
 
 * Will be a candidate of ECE Ph.D.@Princeton🐯 in Sep 2022!
-<!-- * 🎓 **Seeking opportunities for a Ph.D. study** -->
+
 * Received 22 Fall offers: ECE Ph.D.@Princeton, CS Ph.D.@GeorgiaTech, CS Ph.D.@NUS, MSML@CMU, MSCS@UCSD, MSCS@ETHz (updating).
 * Our paper [Towards Practical Deployment-Stage Backdoor Attack on Deep Neural Networks](https://arxiv.org/abs/2111.12965) is accepted by CVPR 2022!
 * My 🍫-abs are visible!!! To lose fat, healthy diets are just important as appropriate exercise plans.
-<!-- * Our new paper [Towards Practical Deployment-Stage Backdoor Attack on Deep Neural Networks](https://arxiv.org/abs/2111.12965) (pre-print & under review) now available! -->
 * 🔬 Currently working as a research intern @ [ALPS lab](https://alps-lab.github.io/alps/) (**A**lgorithmic Research on **L**earning, **P**rivacy and **S**ecurity), advised by Professor [Ting Wang](https://alps-lab.github.io/about/) at Penn State University.
-<!-- * 🇬🇧 Now visiting at the [University of Oxford](https://www.ox.ac.uk) -->
 * 🌏 My personal website [tinghaoxie.com](https://tinghaoxie.com) or [vtu.life](http://vtu.life)
 * 📋 My [CV/resume](https://tinghaoxie.com/files/CV_TinghaoXie.pdf)
 * 📖 My [publications](https://tinghaoxie.com/publications)
@@ -26,5 +24,8 @@ Earlier, I finished our project **Subnet Replacement Attack (SRA)**[[paper]](htt
 * 🏊‍ Enjoy swimming as an aerobic exercise.
 * 🏋 Go to gym regularly. It makes me happy!
 * 🎱 Love playing billiards, basketball, bowling...
+<!-- * 🎓 **Seeking opportunities for a Ph.D. study** -->
+<!-- * Our new paper [Towards Practical Deployment-Stage Backdoor Attack on Deep Neural Networks](https://arxiv.org/abs/2111.12965) (pre-print & under review) now available! -->
+<!-- * 🇬🇧 Now visiting at the [University of Oxford](https://www.ox.ac.uk) -->
 
 ![vtu81's GitHub stats](https://github-readme-stats.vercel.app/api?username=vtu81&show_icons=true&layout=compact&hide_border=true&count_private=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vtu81&layout=compact&hide_border=true&langs_count=8&hide=html,css,less,ejs,scss,makefile)
