@@ -2,7 +2,7 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=vtu81)
 
-Hello, I am **Tinghao(Vitus) Xie 谢廷浩**, a senior undergraduate student majoring in [Computer Science and Technology](http://www.en.cs.zju.edu.cn) at [Zhejiang University](http://www.zju.edu.cn/english/). Earlier, I just finished my one-term visit at the [University of Oxford](https://www.ox.ac.uk/).
+Hello, I am **Tinghao(Vitus) Xie 谢廷浩**, a senior undergraduate student majoring in [Computer Science and Technology](http://www.en.cs.zju.edu.cn) at [Zhejiang University](http://www.zju.edu.cn/english/). **I will be a ECE PhD candidate at Princeton in Sep 2022**. Earlier, I just finished my one-term visit at the [University of Oxford](https://www.ox.ac.uk/).
 
 I found the **robustness of machine learning** being both a “dark cloud” and an attractive perspective to work on. Specifically, my research interest could be described in two aspects: First, I intend to study and solve security concerns involving current non-robust deep learning models; Second, I would like to better understand AI’s behaviors and make their predictions more human-like through explainable and causal methods. In summary, I hope to fully explore the breadth and depth of **secure, robust, and reliable AI**. Yet, I'm always on my way looking for things that intrigue me, and tend to hold an open mind for whatever is coming. I (wish to) have fun doing research.
 
@@ -10,10 +10,11 @@ Earlier, I finished our project **Subnet Replacement Attack (SRA)**[[paper]](htt
 
 ### News & Facts
 
-* 🎓 **Seeking opportunities for a Ph.D. study**
+* Will be a candidate of ECE Ph.D.@Princeton🐯 in Sep 2022!
+<!-- * 🎓 **Seeking opportunities for a Ph.D. study** -->
 * Received 22 Fall offers: ECE Ph.D.@Princeton, CS Ph.D.@GeorgiaTech, CS Ph.D.@NUS, MSML@CMU, MSCS@UCSD, MSCS@ETHz (updating).
 * Our paper [Towards Practical Deployment-Stage Backdoor Attack on Deep Neural Networks](https://arxiv.org/abs/2111.12965) is accepted by CVPR 2022!
-* My 🍫-abs are visible!!! To lose fat, healthy diets are way more important than exercises.
+* My 🍫-abs are visible!!! To lose fat, healthy diets are just important as appropriate exercise plans.
 <!-- * Our new paper [Towards Practical Deployment-Stage Backdoor Attack on Deep Neural Networks](https://arxiv.org/abs/2111.12965) (pre-print & under review) now available! -->
 * 🔬 Currently working as a research intern @ [ALPS lab](https://alps-lab.github.io/alps/) (**A**lgorithmic Research on **L**earning, **P**rivacy and **S**ecurity), advised by Professor [Ting Wang](https://alps-lab.github.io/about/) at Penn State University.
 <!-- * 🇬🇧 Now visiting at the [University of Oxford](https://www.ox.ac.uk) -->
