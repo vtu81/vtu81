@@ -10,7 +10,7 @@ Earlier, I finished our project **Subnet Replacement Attack (SRA)**[[paper]](htt
 
 ### News & Facts
 
-* Will be a candidate of ECE Ph.D.@Princeton🐯 in Sep 2022!
+<!-- * Will be a candidate of ECE Ph.D.@Princeton🐯 in Sep 2022! -->
 * My 🍫-abs are visible!!! To lose fat, healthy diets are just important as appropriate exercise plans.
 * 💃 Interested in choreography and street dance. I especially enjoy *House* recently. Besides that, I do *Hiphop* a lot, and some *Breaking* too. BTW, I like *Locking* and *Popping* but not so good at them :)
 * 🏊‍ Enjoy swimming as an aerobic exercise.
