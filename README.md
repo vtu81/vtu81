@@ -29,4 +29,4 @@ Earlier, I finished our project **Subnet Replacement Attack (SRA)**[[paper]](htt
 <!-- * Our new paper [Towards Practical Deployment-Stage Backdoor Attack on Deep Neural Networks](https://arxiv.org/abs/2111.12965) (pre-print & under review) now available! -->
 <!-- * 🇬🇧 Now visiting at the [University of Oxford](https://www.ox.ac.uk) -->
 
-![vtu81's GitHub stats](https://github-readme-stats.vercel.app/api?username=vtu81&show_icons=true&layout=compact&hide_border=true&count_private=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vtu81&layout=compact&hide_border=true&count_private=true&langs_count=8&hide=html,css,less,ejs,scss,makefile)
+![vtu81's GitHub stats](https://github-readme-stats.vercel.app/api?username=vtu81&show_icons=true&layout=compact&hide_border=true&count_private=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vtu81&layout=compact&hide_border=true&count_private=true&langs_count=8&hide=jupyter%20notebook,html,css,less,ejs,scss,makefile)
