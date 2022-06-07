@@ -20,7 +20,7 @@ Earlier, I finished our project **Subnet Replacement Attack (SRA)**[[paper]](htt
 * 🏊‍ Enjoy swimming as an aerobic exercise.
 * 🏋 Go to gym regularly. It makes me happy!
 * 🎱 Billiards, basketball, bowling...
-<!-- * Our paper [Towards Practical Deployment-Stage Backdoor Attack on Deep Neural Networks](https://arxiv.org/abs/2111.12965) is accepted by CVPR 2022 (oral)! -->
+* Our paper [Towards Practical Deployment-Stage Backdoor Attack on Deep Neural Networks](https://arxiv.org/abs/2111.12965) is accepted by CVPR 2022 (oral)!
 <!-- * Received 22 Fall offers: ECE Ph.D.@Princeton, CS Ph.D.@GeorgiaTech, CS Ph.D.@NUS, MSML@CMU, MSCS@UCLA, MSCS@UCSD, MSCS@ETHz, MSCS@EPFL (updating). -->
 <!-- * 🔬 Currently working as a research intern @ [ALPS lab](https://alps-lab.github.io/alps/) (**A**lgorithmic Research on **L**earning, **P**rivacy and **S**ecurity), advised by Professor [Ting Wang](https://alps-lab.github.io/about/) at Penn State University.
 * 🌏 My personal website [tinghaoxie.com](https://tinghaoxie.com) or [vtu.life](http://vtu.life)
