@@ -29,7 +29,7 @@ Earlier, I finished our project **Subnet Replacement Attack (SRA)**[[paper]](htt
 * 🌏 My personal website [tinghaoxie.com](https://tinghaoxie.com) or [vtu.life](http://vtu.life)
 * 📋 My [CV/resume](https://tinghaoxie.com/files/CV_TinghaoXie.pdf)
 * 📖 My [publications](https://tinghaoxie.com/publications)
-* 🏰 My [recent projects](https://tinghaoxie.com/projects) -->
+* 🏰 My [recent projects](https://tinghaoxie.com/projects)
 <!-- * Received 22 Fall offers: ECE Ph.D.@Princeton, CS Ph.D.@GeorgiaTech, CS Ph.D.@NUS, MSML@CMU, MSCS@UCLA, MSCS@UCSD, MSCS@ETHz, MSCS@EPFL (updating). -->
 <!-- * 🔬 Currently working as a research intern @ [ALPS lab](https://alps-lab.github.io/alps/) (**A**lgorithmic Research on **L**earning, **P**rivacy and **S**ecurity), advised by Professor [Ting Wang](https://alps-lab.github.io/about/) at Penn State University.
 <!-- * 🎓 **Seeking opportunities for a Ph.D. study** -->
