@@ -4,7 +4,7 @@
 
 <!-- ⚠️ My personal website is currently not available! -->
 
-Hello, I am **Tinghao Xie 谢廷浩**, a first year ECE PhD student at Princeton. I just received my Bachelor degree from [Computer Science and Technology](http://www.en.cs.zju.edu.cn) at [Zhejiang University](http://www.zju.edu.cn/english/).
+Hello, I am **Tinghao Xie 谢廷浩**, a first year ECE PhD student at Princeton advised by Prof. [Prateek Mittal](https://www.princeton.edu/~pmittal/index.html). I received my Bachelor degree from [Computer Science and Technology](http://www.en.cs.zju.edu.cn) at [Zhejiang University](http://www.zju.edu.cn/english/).
 <!-- Earlier, I just finished my one-term visit at the [University of Oxford](https://www.ox.ac.uk/). -->
 
 My research interest mainly lies in adversarial machine learning. Specifically, I am thrilled to work on ML robustness, interpretability and fairness. On the other hand, I am also actively exploring the intersection of ML and other fields (system, network, etc.).
