@@ -4,7 +4,7 @@
 
 <!-- ⚠️ My personal website is currently not available! -->
 
-Hello, I am **Tinghao Xie 谢廷浩**, a second year ECE PhD student at Princeton advised by Prof. [Prateek Mittal](https://www.princeton.edu/~pmittal/index.html). I received my Bachelor degree from [Computer Science and Technology](http://www.en.cs.zju.edu.cn) at [Zhejiang University](http://www.zju.edu.cn/english/). Check my [website](https://tinghaoxie.com) for more information!
+Hello, I am **Tinghao Xie 谢廷浩**, a second year ECE PhD candidate at Princeton advised by Prof. [Prateek Mittal](https://www.princeton.edu/~pmittal/index.html). I received my Bachelor degree from [Computer Science and Technology](http://www.en.cs.zju.edu.cn) at [Zhejiang University](http://www.zju.edu.cn/english/). Check my [website](https://tinghaoxie.com) for more information!
 <!-- Earlier, I just finished my one-term visit at the [University of Oxford](https://www.ox.ac.uk/). -->
 
 
